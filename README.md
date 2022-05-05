@@ -1,2 +1,2 @@
-# unicorn-re
-Unicorns are beautiful 
+# Data-Science-re
+Collection of projects from my data science coursework
